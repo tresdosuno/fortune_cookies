@@ -1,0 +1,24 @@
+.App {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+    padding: 10px;
+}
+
+.bg1 {
+    background-image: url(/images/amarillo.webp);
+}
+
+.bg2 {
+    background-image: url(/images/azul.webp);
+}
+
+.bg3 {
+    background-image: url(/images/rosado.webp);
+}
+
+.bg4 {
+    background-image: url(/images/verde.webp);
+}
